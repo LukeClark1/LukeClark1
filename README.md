@@ -1,7 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Luke! <br/>
+<h2>👨‍💻 General IT Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/NygmaCode/LAB)
+
+<h2> 📄 Certifications:</h2>
+
+  - Google Cybersecurity Professional
+  
+  - IBM Product Management
+    
+  - CompTIA A+
+  
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/luke_shepherd99/
+[linkedin]: https://linkedin.com/in/lukerobertclark
 
 <!--
-**LukeClark1/LukeClark1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
